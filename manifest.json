@@ -1,0 +1,11 @@
+{
+  "display_name": "Persona Weaver (Trình tạo thiết lập User)",
+  "name": "st-persona-weaver",
+  "version": "2.2.0",
+  "author": "Yellows & AI",
+  "description": "AI hỗ trợ tạo và trau chuốt thiết lập người dùng",
+  "js": "index.js",
+  "css": "style.css",
+  "type": "extension",
+  "notes": "1. Thêm tính năng \"Preset dùng để tạo\" (hỗ trợ chế độ thuần/preset chỉ định), giải quyết vấn đề AI dễ viết tiếp cốt truyện và phong cách của preset.\n2. Tối ưu hóa từ khóa kích hoạt Worldbook NPC.\n3. Tăng cường bắt lỗi API.\n4. Sửa lỗi gửi lặp lại Worldbook.\nNgày cuối cùng của Tết Dương lịch, tranh thủ làm một bản cập nhật giao diện ở bài viết gốc."
+}
